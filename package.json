@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "dependencies": {
+    "solid-js": "^1.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
