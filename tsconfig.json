@@ -6,7 +6,8 @@
     "newLine": "LF",
     "moduleResolution": "node",
     "strict": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+		"jsxImportSource": "solid-js"
   },
   "exclude": ["node_modules", "**/*.spec.ts", "**/*.spec.tsx"]
 }
